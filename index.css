@@ -1,0 +1,17 @@
+.main{
+    background-color: rgb(51, 231, 5);
+    display: flex;
+    padding-left: 10px;
+    color: white;
+    border-radius: 5px;
+
+}
+.body{
+    padding-left: 25px;
+    
+    
+}
+.bodydiv1{
+    display: flex;
+    flex-direction: column;
+}
