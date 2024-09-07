@@ -65,7 +65,7 @@
     border-radius: 7px;
     height: 75px;
     align-items: center;
-    padding-top: 13px;
+    padding-top: 1px;
 }
 
 .loginFields {
@@ -75,6 +75,7 @@
     margin-bottom: 2px solid  rgb(51, 231, 5);
     margin-bottom: 10px;
     padding-bottom: 10px;
+    height: ;
 }
 .submitButton{
 background-color: rgb(51, 231, 5);
@@ -83,4 +84,21 @@ width: 10%;
 height: 35px;
 border-radius: 10px;
 text-decoration: none;
+}
+
+.contact_container {
+    display: flex;
+
+    margin-top: 10px;
+    margin: 2px solid rgb(51, 231, 5);
+    background-color: rgb(51, 231, 5);
+    border-radius: 10px;
+    color: white;
+    padding: 15px;
+}
+
+.contact_container_a {
+    padding-right: 10px;
+    margin-right: 75px;
+
 }
